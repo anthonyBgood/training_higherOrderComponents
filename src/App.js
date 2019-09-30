@@ -1,24 +1,25 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+
+import Body from './Body'
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
+        
+        <h1>
+          Higher Order Components
+        </h1>
+
+        <p> 
+          The icons below are constructed with HOCs that
+          enable the popups on mouse over
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+
       </header>
+
+      <Body/>
     </div>
   );
 }

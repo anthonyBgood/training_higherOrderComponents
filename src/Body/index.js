@@ -1,18 +1,19 @@
 import React from 'react' 
 
+import InfoWithHover from '../Info'
 
-import Info from '../Info'
 
 const Body = () => (
+
+  
 
   <div className="App-body">
     BODY
 
-    <div className="titleWithTip">
-      <p>OPTION 1</p><Info/>
-    </div>
     
+    <InfoWithHover/>
   </div>
+
 )
 
 

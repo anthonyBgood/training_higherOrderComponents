@@ -1,4 +1,5 @@
 import React from 'react'
+import './tooltip.css'
 
 
 class Tooltip extends React.Component {
@@ -6,9 +7,9 @@ class Tooltip extends React.Component {
   render(){
 
     return(
-      <div className="tooltip modal">
-        Tooltip
-      </div>
+      <span className="toolTipText">
+        the notes for option 1
+      </span>
     )
   }
 }

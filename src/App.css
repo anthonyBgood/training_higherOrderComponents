@@ -44,19 +44,3 @@
   flex-direction: row;
 }
 
-.modal {
-
-    
-    background:#333;
-    color: #fff;
-    font-size:12px;
-    padding:10px ;
-    text-align:center;
-
-
-    margin-left:-60px; 
-
-    border-radius: 3px;
-
-  
-}

@@ -1,0 +1,22 @@
+
+.toolTipText {
+  
+  background-color:#333;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 10px;
+
+  position: absolute; 
+  z-index: 3;
+}  
+
+/* .infoBody{
+  background-color: #09d3ac;
+}  */
+
+
+
+
+ 
+

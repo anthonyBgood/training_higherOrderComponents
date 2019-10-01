@@ -4,10 +4,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Training
 
-I am working on making higher order components, as I had a bit of trouble with them.
+I am working on implementing higher order components.
 
+The premise is to implement tooltips with common code. It is based on the ideas presented in the tutorial linked below
 
-this is an exploration of the ideas in tutorial: 
+tutorial: 
 [https://tylermcginnis.com/react-higher-order-components/]
 
 
